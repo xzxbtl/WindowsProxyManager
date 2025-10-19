@@ -25,3 +25,7 @@ __pycache__/
 .idea/encodings.xml
 .idea/material_theme_project_new.xml
 .idea/misc.xml
+*.toc
+*.pkg
+*.pyz
+*.html
